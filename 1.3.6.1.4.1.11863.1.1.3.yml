@@ -1,0 +1,23 @@
+# Properties
+SNMPv: 2C
+Type: TL-SG3424 
+OS: TLOS
+Icon: rsbn
+Size: 1
+
+# General
+Serial: snmp(1.3.6.1.4.1.11863.1.1.3.1.1.1.7.0)
+Bootimage: snmp(1.3.6.1.2.1.16.19.2.0)
+
+# Config
+CfgChg: snmp(1.3.6.1.4.1.9.9.43.1.1.1.0)
+CfgWrt: snmp(1.3.6.1.4.1.9.9.43.1.1.3.0)
+
+# Interfaces
+IFdesc: snmp(1.3.6.1.2.1.2.2.1.2)
+IFname: snmp(1.3.6.1.2.1.31.1.1.1.1)
+IFalias: snmp(1.3.6.1.2.1.31.1.1.1.18)
+IFspeed: snmp(1.3.6.1.2.1.2.2.1.5)
+
+# Modules
+Modesc: snmp(1.3.6.1.4.1.9.3.6.11.1.3)
